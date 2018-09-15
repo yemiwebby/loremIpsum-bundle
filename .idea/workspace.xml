@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="510f2b8f-ba53-4da7-8376-208b1213d935" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/IpsumApiController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DependencyInjection/Compiler/WordProviderCompilerPass.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Event/FilterApiResponseEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Event/KnpULoremIpsumEvents.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/config/routes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Controller/IpsumApiControllerTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LoremIpsumBundle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LoremIpsumBundle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DependencyInjection/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DependencyInjection/Configuration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DependencyInjection/KnpULoremIpsumExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DependencyInjection/KnpULoremIpsumExtension.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnpUIpsum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnpUIpsum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnpULoremIpsumBundle.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnpULoremIpsumBundle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/config/services.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/config/services.xml" afterDir="false" />
-    </list>
+    <list default="true" id="510f2b8f-ba53-4da7-8376-208b1213d935" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +59,8 @@
       <file leaf-file-name="KnpULoremIpsumExtension.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DependencyInjection/KnpULoremIpsumExtension.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            <state relative-caret-position="63">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#146#194#0#PHP" expanded="true" />
               </folding>
@@ -255,12 +238,20 @@
       <workItem from="1537009206555" duration="139000" />
       <workItem from="1537015030649" duration="784000" />
       <workItem from="1537018576882" duration="5403000" />
-      <workItem from="1537040440806" duration="8083000" />
+      <workItem from="1537040440806" duration="8472000" />
     </task>
+    <task id="LOCAL-00001" summary="Bundle completed and ready for packagist">
+      <created>1537052656463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537052656463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17032000" />
+    <option name="totallyTimeSpent" value="17421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1417" y="23" width="1218" height="677" extended-state="0" />
@@ -292,6 +283,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bundle completed and ready for packagist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bundle completed and ready for packagist" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/KnpULoremIpsumBundle.php">
@@ -518,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DependencyInjection/KnpULoremIpsumExtension.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        <state relative-caret-position="63">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#146#194#0#PHP" expanded="true" />
           </folding>
