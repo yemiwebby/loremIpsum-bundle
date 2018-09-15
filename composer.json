@@ -1,5 +1,5 @@
 {
-    "name": "webby/lorem-ipsum-bundle",
+    "name": "yemiwebby/lorem-ipsum-bundle",
     "description": "A sample bundle",
     "type": "symfony-bundle",
     "license": "MIT",
